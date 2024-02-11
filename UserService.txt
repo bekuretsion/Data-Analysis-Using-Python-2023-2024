@@ -1,0 +1,1 @@
+Get all data from User and Process some usefull dta and make predications 
